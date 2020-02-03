@@ -1,2 +1,2 @@
 # SuperMarioBros
-Unity Project Mario Bros
+Unity Project
