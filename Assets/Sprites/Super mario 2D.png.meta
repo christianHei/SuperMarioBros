@@ -1,0 +1,3259 @@
+fileFormatVersion: 2
+guid: 6f27d95269e935f4e873028c607a0842
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7753423539348239677
+    second: Super mario 2D_0
+  - first:
+      213: -3674845307518063120
+    second: Super mario 2D_1
+  - first:
+      213: -3556674826025037852
+    second: Super mario 2D_2
+  - first:
+      213: -1324182283606696947
+    second: Super mario 2D_3
+  - first:
+      213: -2557092368234647150
+    second: Super mario 2D_4
+  - first:
+      213: -4273410387808476718
+    second: Super mario 2D_5
+  - first:
+      213: -1492899252437948481
+    second: Super mario 2D_6
+  - first:
+      213: 4019176088862049246
+    second: Super mario 2D_7
+  - first:
+      213: -293923835648385020
+    second: Super mario 2D_8
+  - first:
+      213: 5033725719102301934
+    second: Super mario 2D_9
+  - first:
+      213: 6269326547267204741
+    second: Super mario 2D_10
+  - first:
+      213: -4519804508624567738
+    second: Super mario 2D_11
+  - first:
+      213: -1236843509031560374
+    second: Super mario 2D_12
+  - first:
+      213: 574178668139085946
+    second: Super mario 2D_13
+  - first:
+      213: -2176856122027426900
+    second: Super mario 2D_14
+  - first:
+      213: -6007034144975334154
+    second: Super mario 2D_15
+  - first:
+      213: 3508884450773967299
+    second: Super mario 2D_16
+  - first:
+      213: 8973148296726714829
+    second: Super mario 2D_17
+  - first:
+      213: -3604370573029938518
+    second: Super mario 2D_18
+  - first:
+      213: -8507541827785355451
+    second: Super mario 2D_19
+  - first:
+      213: -20574325266523387
+    second: Super mario 2D_20
+  - first:
+      213: 2027596739647377371
+    second: Super mario 2D_21
+  - first:
+      213: -5699677338268402842
+    second: Super mario 2D_22
+  - first:
+      213: -7434735284995151736
+    second: Super mario 2D_23
+  - first:
+      213: 184856528912278402
+    second: Super mario 2D_24
+  - first:
+      213: 8650445586029081238
+    second: Super mario 2D_25
+  - first:
+      213: -4939415756141045197
+    second: Super mario 2D_26
+  - first:
+      213: 8861137887939472297
+    second: Super mario 2D_27
+  - first:
+      213: 5910322186102596082
+    second: Super mario 2D_28
+  - first:
+      213: 6727969695456591621
+    second: Super mario 2D_29
+  - first:
+      213: -6043994123758575739
+    second: Super mario 2D_30
+  - first:
+      213: -7822042971905126589
+    second: Super mario 2D_31
+  - first:
+      213: -5621593987204722423
+    second: Super mario 2D_32
+  - first:
+      213: 2346563861047047300
+    second: Super mario 2D_33
+  - first:
+      213: 2176975463997574553
+    second: Super mario 2D_34
+  - first:
+      213: -1862513328471672559
+    second: Super mario 2D_35
+  - first:
+      213: -2224596195946378672
+    second: Super mario 2D_36
+  - first:
+      213: 3035067925477245260
+    second: Super mario 2D_37
+  - first:
+      213: -1631923909291677210
+    second: Super mario 2D_38
+  - first:
+      213: 3639720374206904144
+    second: Super mario 2D_39
+  - first:
+      213: 2760739532071373534
+    second: Super mario 2D_40
+  - first:
+      213: 6573936319065483730
+    second: Super mario 2D_41
+  - first:
+      213: 547362828595570896
+    second: Super mario 2D_42
+  - first:
+      213: 4860520253278667484
+    second: Super mario 2D_43
+  - first:
+      213: 2819642221393834625
+    second: Super mario 2D_44
+  - first:
+      213: 5825550483440391637
+    second: Super mario 2D_45
+  - first:
+      213: -7646963258838199523
+    second: Super mario 2D_46
+  - first:
+      213: -2653486344121610171
+    second: Super mario 2D_47
+  - first:
+      213: 5355514259613142411
+    second: Super mario 2D_48
+  - first:
+      213: 2370040739227563807
+    second: Super mario 2D_49
+  - first:
+      213: 996413079485939001
+    second: Super mario 2D_50
+  - first:
+      213: -556820173819950923
+    second: Super mario 2D_51
+  - first:
+      213: 5932007459098967716
+    second: Super mario 2D_52
+  - first:
+      213: -8390137681319655982
+    second: Super mario 2D_53
+  - first:
+      213: 5509241527306964208
+    second: Super mario 2D_54
+  - first:
+      213: 5636073436474001488
+    second: Super mario 2D_55
+  - first:
+      213: 7599559592530360216
+    second: Super mario 2D_56
+  - first:
+      213: -2409163696852706287
+    second: Super mario 2D_57
+  - first:
+      213: 675932814437253080
+    second: Super mario 2D_58
+  - first:
+      213: -296284049859847494
+    second: Super mario 2D_59
+  - first:
+      213: 6788576019157384233
+    second: Super mario 2D_60
+  - first:
+      213: 4279832232370560779
+    second: Super mario 2D_61
+  - first:
+      213: -7398761494008804062
+    second: Super mario 2D_62
+  - first:
+      213: -2525718815083117494
+    second: Super mario 2D_63
+  - first:
+      213: 4073127174362843685
+    second: Super mario 2D_64
+  - first:
+      213: -1873645309350784857
+    second: Super mario 2D_65
+  - first:
+      213: 4437766803316172155
+    second: Super mario 2D_66
+  - first:
+      213: 1818306692815456391
+    second: Super mario 2D_67
+  - first:
+      213: -1477493543515109394
+    second: Super mario 2D_68
+  - first:
+      213: 5260360752614603792
+    second: Super mario 2D_69
+  - first:
+      213: -385522899921330139
+    second: Super mario 2D_70
+  - first:
+      213: 6719072237633552322
+    second: Super mario 2D_71
+  - first:
+      213: 2103760279906598400
+    second: Super mario 2D_72
+  - first:
+      213: -6437816995513083143
+    second: Super mario 2D_73
+  - first:
+      213: -9096198866881370768
+    second: Super mario 2D_74
+  - first:
+      213: -3351633009403788446
+    second: Super mario 2D_75
+  - first:
+      213: -592124215572043860
+    second: Super mario 2D_76
+  - first:
+      213: -1237858796786597888
+    second: Super mario 2D_77
+  - first:
+      213: -375548306322710495
+    second: Super mario 2D_78
+  - first:
+      213: -6286710531906707063
+    second: Super mario 2D_79
+  - first:
+      213: -4803309220938268494
+    second: Super mario 2D_80
+  - first:
+      213: 2348141610709529228
+    second: Super mario 2D_81
+  - first:
+      213: -6445758470376808850
+    second: Super mario 2D_82
+  - first:
+      213: 4679445613250192867
+    second: Super mario 2D_83
+  - first:
+      213: 4443556545791471176
+    second: Super mario 2D_84
+  - first:
+      213: -7945071557727415657
+    second: Super mario 2D_85
+  - first:
+      213: -3513558886113826718
+    second: Super mario 2D_86
+  - first:
+      213: -1128479737922686638
+    second: Super mario 2D_87
+  - first:
+      213: -8569730616429379522
+    second: Super mario 2D_88
+  - first:
+      213: -2310283231724792717
+    second: Super mario 2D_89
+  - first:
+      213: 5833084384646936681
+    second: Super mario 2D_90
+  - first:
+      213: 8114882818632633107
+    second: Super mario 2D_91
+  - first:
+      213: -6533330254428828425
+    second: Super mario 2D_92
+  - first:
+      213: 7905515903052632816
+    second: Super mario 2D_93
+  - first:
+      213: -7330904631407509612
+    second: Super mario 2D_94
+  - first:
+      213: -4594331178852049210
+    second: Super mario 2D_95
+  - first:
+      213: 2641956934346898733
+    second: Super mario 2D_96
+  - first:
+      213: -555719718514816692
+    second: Super mario 2D_97
+  - first:
+      213: 368853667064860066
+    second: Super mario 2D_98
+  - first:
+      213: -5722241783737252498
+    second: Super mario 2D_99
+  - first:
+      213: 7078130445423290420
+    second: Super mario 2D_100
+  - first:
+      213: 7540812117213849724
+    second: Super mario 2D_101
+  - first:
+      213: -8402884620006251239
+    second: Super mario 2D_102
+  - first:
+      213: 6656700907966346775
+    second: Super mario 2D_103
+  - first:
+      213: -7939054279550267209
+    second: Super mario 2D_104
+  - first:
+      213: -8934429139646990482
+    second: Super mario 2D_105
+  - first:
+      213: 463470698455171515
+    second: Super mario 2D_106
+  - first:
+      213: -4967593924556595602
+    second: Super mario 2D_107
+  - first:
+      213: 3718741967912350642
+    second: Super mario 2D_108
+  - first:
+      213: 3739298517645488062
+    second: Super mario 2D_109
+  - first:
+      213: 8657843626513852905
+    second: Super mario 2D_110
+  - first:
+      213: 8807370060342552276
+    second: Super mario 2D_111
+  - first:
+      213: 5533089217065921602
+    second: Super mario 2D_112
+  - first:
+      213: -4221133232685267611
+    second: Super mario 2D_113
+  - first:
+      213: -3721250372002891634
+    second: Super mario 2D_114
+  - first:
+      213: -471565781249551520
+    second: Super mario 2D_115
+  - first:
+      213: 4246529176789337689
+    second: Super mario 2D_116
+  - first:
+      213: 2383526633402849356
+    second: Super mario 2D_117
+  - first:
+      213: 8916112803180293767
+    second: Super mario 2D_118
+  - first:
+      213: -4824512961728603041
+    second: Super mario 2D_119
+  - first:
+      213: 9007902233237679357
+    second: Super mario 2D_120
+  - first:
+      213: -7990761300094665847
+    second: Super mario 2D_121
+  - first:
+      213: -4686537763550531342
+    second: Super mario 2D_122
+  - first:
+      213: -8748488551836830685
+    second: Super mario 2D_123
+  - first:
+      213: -1340836103258817701
+    second: Super mario 2D_124
+  - first:
+      213: -3231452567879330763
+    second: Super mario 2D_125
+  - first:
+      213: 2753245023241242662
+    second: Super mario 2D_126
+  - first:
+      213: 386554259212175419
+    second: Super mario 2D_127
+  - first:
+      213: 3602632530663975739
+    second: Super mario 2D_128
+  - first:
+      213: 5123698899492354805
+    second: Super mario 2D_129
+  - first:
+      213: -5426851345641430071
+    second: Super mario 2D_130
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super mario 2D_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 155
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63b6024e8d50ef459b761b3f9c95afe
+      internalID: -7753423539348239677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 156
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040a9b23d4930524f8a9d7d041c5eebd
+      internalID: -3674845307518063120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 155
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e2d60089e5e1c4cb373e64161b4f16
+      internalID: -3556674826025037852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 156
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5244fc6273179504e92f322f631fe83e
+      internalID: -1324182283606696947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 155
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c3c606481035d48901e9ab29d00bc6
+      internalID: -2557092368234647150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 156
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ff8e069a16b624d8b9a13dedca6d5c
+      internalID: -4273410387808476718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 156
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3565330d22cc6b5499d6af8223094568
+      internalID: -1492899252437948481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 157
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5acb1ec6bb9c646b40fecc4c38527c
+      internalID: 4019176088862049246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 155
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1639515b587d324785a961e3e2de45b
+      internalID: -293923835648385020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 155
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f578767cc0d4d4191a348bc015ffd2
+      internalID: 5033725719102301934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 155
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903e004cf00820d489d4abf60a03f707
+      internalID: 6269326547267204741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 156
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2e4cee41e66c341a147aa2c8f5ee22
+      internalID: -4519804508624567738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 155
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a86093648a20f419679ed617951bd3
+      internalID: -1236843509031560374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 155
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df563a601be4f409b990a9f6e6b104
+      internalID: 574178668139085946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 155
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41fa249b81724841bc2834c17f9d63d
+      internalID: -2176856122027426900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 155
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb18d089dc59de46b01c9308069ed39
+      internalID: -6007034144975334154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_16
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 156
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e40ed9c1651f9c4a9203838539d8552
+      internalID: 3508884450773967299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_17
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 156
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468b5b463ff96814eb00ee536c32cd6e
+      internalID: 8973148296726714829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 155
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221c9b4ea7e34d445af0b02ffb47de06
+      internalID: -3604370573029938518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 155
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0f11e3c4aa67a4a87bce4f48372637
+      internalID: -8507541827785355451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_20
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 156
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a06f8b52c5986f44a0b6b55f301aa87
+      internalID: -20574325266523387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 156
+        width: 19
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bfd95b1e3badf46a27fb1372f669c2
+      internalID: 2027596739647377371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 154
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cad5135aa4cf15408857e5a3e17f96e
+      internalID: -5699677338268402842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ba0ceb3928ee349ae2c7c8576443a2
+      internalID: -7434735284995151736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 129
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd6ec9c705539441ae3c01d4ec39d1a
+      internalID: 184856528912278402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 128
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ccf36664cfc2342807023dc860e868
+      internalID: 8650445586029081238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_26
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 130
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2236a88bd13cf2044ae7cef83dc720c7
+      internalID: -4939415756141045197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 129
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f40f629992a22449b9b8f7655e573d
+      internalID: 8861137887939472297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 128
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba4f0739db2eb54b94b794226cd367c
+      internalID: 5910322186102596082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 131
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7398ab1df0c45154ea37065d5ce79107
+      internalID: 6727969695456591621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_30
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 131
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc48d999ebec247bf402a466a55b51
+      internalID: -6043994123758575739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 132
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f434402beb751459b8904fabc8d21e
+      internalID: -7822042971905126589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 130
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1208bba19e135b34194aa7be0c168c2c
+      internalID: -5621593987204722423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_33
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 132
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c43f2612a330d43a3752b05b5b0136
+      internalID: 2346563861047047300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 132
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96e7dc6657c09c4eabd4010314dbd89
+      internalID: 2176975463997574553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_35
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 131
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fa43ba53dc99f4bb01f0c2727ecb87
+      internalID: -1862513328471672559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_36
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 131
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e2f5198cab6ab45aaf3c7395bbc2d3
+      internalID: -2224596195946378672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_37
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 132
+        width: 15
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b388ae05557d663458d7305efb38cebf
+      internalID: 3035067925477245260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 131
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d558f38621c1f4997b664685b45614
+      internalID: -1631923909291677210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_39
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 131
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845ba2be30a63ec4e962e0b238560dad
+      internalID: 3639720374206904144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_40
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 129
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b92497209a85e14390925a63a5d45fe
+      internalID: 2760739532071373534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 129
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bbe49709cde6247bf1fcc2f1093a50
+      internalID: 6573936319065483730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_42
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 129
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ce15bb6036ca640b9771bf8ec282f5
+      internalID: 547362828595570896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 129
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4161eece69c454bb93b9950cfba208
+      internalID: 4860520253278667484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_44
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 129
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdca61c51ec43f47bac883004a85f93
+      internalID: 2819642221393834625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_45
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 129
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021c76f003de2a64c83ceec6d5e788a3
+      internalID: 5825550483440391637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_46
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 126
+        width: 15
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300682bb8eaa4c3419857ab7971ded01
+      internalID: -7646963258838199523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_47
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 126
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6b6c6f5b3796a4698af8fecc94201f
+      internalID: -2653486344121610171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 15
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c06a2b46b0773c4bb8ed4abcc0a31fe
+      internalID: 5355514259613142411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 96
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ce6bcc000231e4ab07940267fbf558
+      internalID: 2370040739227563807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 96
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6402aac68748446439cabec6c0e0e1c5
+      internalID: 996413079485939001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_51
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 96
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96df97f023a6083499632363550d7623
+      internalID: -556820173819950923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 96
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e87ddf02021024682beaaab4be0fed
+      internalID: 5932007459098967716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_53
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 97
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069bf26411c64b9468448c6c9c18ea6f
+      internalID: -8390137681319655982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_54
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 96
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cadaf3f2c20f64bba6618753ca4834
+      internalID: 5509241527306964208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_55
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 94
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa0630c94679044f97ee996bfac2c0c
+      internalID: 5636073436474001488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 94
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a73a2c1eae21d46b9e17ba69dbb053
+      internalID: 7599559592530360216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_57
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 95
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00aed110e0007e4f9a33bc0091fa26d
+      internalID: -2409163696852706287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_58
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 93
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff60a2a8e38fa040a9e9f90b800caf3
+      internalID: 675932814437253080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_59
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 93
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5531458d10b30a40acb749f47077ab4
+      internalID: -296284049859847494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_60
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 93
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d6f521da727754cad0e9dd77272b65
+      internalID: 6788576019157384233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_61
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 93
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f57130f40f1bc4bbde4dddcec67975
+      internalID: 4279832232370560779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 93
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3665d5e950eb641ba10f3484b98a3a
+      internalID: -7398761494008804062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_63
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 93
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa00f73e5c49934bb1b25334581e17d
+      internalID: -2525718815083117494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_64
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 93
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd35a1f5b9305742832653dd9b2417a
+      internalID: 4073127174362843685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_65
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 93
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725ad9fabfc01994494b3660334a27c2
+      internalID: -1873645309350784857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_66
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 93
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3135c446d38a73148b928177905a5ff9
+      internalID: 4437766803316172155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_67
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 94
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25a42d4ec2642c48b9e6056711828c8
+      internalID: 1818306692815456391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_68
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 93
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bee037f941071746ba88bd939dcd1de
+      internalID: -1477493543515109394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_69
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 93
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e699927b287cd44a0a8c7e08ca7d37
+      internalID: 5260360752614603792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_70
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 93
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce1800a6c4cf7346970bb36eae89a69
+      internalID: -385522899921330139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_71
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 94
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d289fbdc5f3c4f85013f14ff1623c
+      internalID: 6719072237633552322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf94d8c1eb53a7d48bf5712782c03d06
+      internalID: 2103760279906598400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_73
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 72
+        width: 26
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0269169c616174bbbc5eac7a1cf650
+      internalID: -6437816995513083143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_74
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 70
+        width: 26
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43931db72e9e6ce4499ba111c667a279
+      internalID: -9096198866881370768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_75
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 70
+        width: 25
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efb9157066814b4388e602b6fd0378b
+      internalID: -3351633009403788446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_76
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 63
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7da89159d4431e4f88ec84c0c2ec67b
+      internalID: -592124215572043860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_77
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 63
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3c35106ef0ca84d9656538524c9b6b
+      internalID: -1237858796786597888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_78
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 63
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132ed7b6c4a96f049872177ba29fa1bb
+      internalID: -375548306322710495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_79
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 63
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6f9d845ae1e354cafac4ff6f24c654
+      internalID: -6286710531906707063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_80
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 63
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d414ef4ac1cde74cb0775b33fdd9db2
+      internalID: -4803309220938268494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 63
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc60024265b772419588bbefefab9f2
+      internalID: 2348141610709529228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_82
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 61
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ba63510feaf3f46943e42737002303
+      internalID: -6445758470376808850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_83
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 61
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9921e5dfcc3333342a8803526a2f9165
+      internalID: 4679445613250192867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_84
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 60
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef59e0d3b0236e84fb0f7d719c599f10
+      internalID: 4443556545791471176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 60
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab9cd2b59fe4054ab6ec39043aea566
+      internalID: -7945071557727415657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_86
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 60
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365f0db149300c945b9fbe3e998660f8
+      internalID: -3513558886113826718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_87
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 60
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e90e867f0053e4ba0bb118873b21bf
+      internalID: -1128479737922686638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_88
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 60
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9e6debc86926149ac54a4ceb47c4fc
+      internalID: -8569730616429379522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_89
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 60
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9024a4b3274b9499ee387b30edf1b6
+      internalID: -2310283231724792717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_90
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 61
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff20b11bc66322e428444e2de55ccb95
+      internalID: 5833084384646936681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_91
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 61
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ff15ee1f5b3d245bda45e13b115682
+      internalID: 8114882818632633107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_92
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fa0f36577f69940912821d257096b7
+      internalID: -6533330254428828425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_93
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 33
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217886a0db7c73842be9ed4847f0b529
+      internalID: 7905515903052632816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_94
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 33
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801b3a3e9d9323f4b8eb62c2f8278de2
+      internalID: -7330904631407509612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_95
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 33
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487b5a7f2fd49814d895e82e92c81e06
+      internalID: -4594331178852049210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_96
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 33
+        width: 15
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134836a5891b24848914da7f6dbe5b85
+      internalID: 2641956934346898733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_97
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 35
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed71fe6835c1bc4b9134a26ebfdccfd
+      internalID: -555719718514816692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_98
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 31
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d0573b24125e64eb45e72764f38585
+      internalID: 368853667064860066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_99
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 30
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f6434faf809714b90c63f1a203d488
+      internalID: -5722241783737252498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_100
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 30
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8df0abd9bcc244d9d6e78061281397
+      internalID: 7078130445423290420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_101
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 28
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e8a7620e3665247b1d575790c9dfa1
+      internalID: 7540812117213849724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_102
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 27
+        width: 29
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6f84d9f1d1b9b4991038cda2392764
+      internalID: -8402884620006251239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_103
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 27
+        width: 27
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870d084244ae60040ab1ebdcad27520a
+      internalID: 6656700907966346775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_104
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 25
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90436cfd79d76b74a8e4c97de57d9351
+      internalID: -7939054279550267209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_105
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 24
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88e4cd9773ea36478d700d4587a43d4
+      internalID: -8934429139646990482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_106
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 18
+        width: 16
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df0908b62430504fb7d4a8caf34269a
+      internalID: 463470698455171515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_107
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 24
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e135c1ab1081c8479803b930f0398dd
+      internalID: -4967593924556595602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_108
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 22
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee1d44be2bb83b44bf57aeeaa0b380f
+      internalID: 3718741967912350642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_109
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 25
+        width: 32
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f3a30f2b33c424facd582822bb48e1
+      internalID: 3739298517645488062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_110
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 25
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65dd44a43f547f4293cc0d69ebea5d0
+      internalID: 8657843626513852905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_111
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bd0ff7593249f4388704b745f39f71
+      internalID: 8807370060342552276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_112
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5355582fcc9d09d49a102541bb16e160
+      internalID: 5533089217065921602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_113
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 5
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9675a4c3fb03ef4a8ba7c45fee8d90c
+      internalID: -4221133232685267611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_114
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaf52ef274d0f540b444d9c4c8761fe
+      internalID: -3721250372002891634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_115
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0707cd8c0ea692843b68084c6e45f0f1
+      internalID: -471565781249551520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_116
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef77e016acd7ce44989227b88145025
+      internalID: 4246529176789337689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_117
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4369f49069bd74ba8a26e46b896620
+      internalID: 2383526633402849356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_118
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 6
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea7e62b13b925b44bc82deba2cdd0c7
+      internalID: 8916112803180293767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_119
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3bb0ff07a1d174986eb5193b6d9495
+      internalID: -4824512961728603041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_120
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4061cfe0a84ca604983c74033a904b2e
+      internalID: 9007902233237679357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_121
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd8f8abd145e75459c4981dafe0e0fb
+      internalID: -7990761300094665847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_122
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eaf2e0c45a0e3449aef3ca67ce399e
+      internalID: -4686537763550531342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_123
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d925dbed43156c4e8be6d48307a8f19
+      internalID: -8748488551836830685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_124
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee4516ee8b955849b59fb2dbe26111c
+      internalID: -1340836103258817701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_125
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f406fbceb6f2604a92e56176612c7b7
+      internalID: -3231452567879330763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_126
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad1104668c66d340983f0069ab35bc9
+      internalID: 2753245023241242662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_127
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2
+        width: 40
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41be780a99307dd4d9cb54dc6b35e3a5
+      internalID: 386554259212175419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_128
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 4
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7b39cbefa4c0d4ca1d1e3892a859ba
+      internalID: 3602632530663975739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_129
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 5
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce70e78e0170d5a4394ebbb9d2baf9ce
+      internalID: 5123698899492354805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super mario 2D_130
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 4
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6941a281ccb3e774eb19db60336b9420
+      internalID: -5426851345641430071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
